@@ -23,6 +23,7 @@
     "matter-attractors": "^0.1.6",
     "matter-js": "^0.14.0",
     "matter-wrap": "^0.2.0",
+    "netlify": "^13.3.5",
     "normalize.css": "^8.0.0",
     "raf": "^3.4.0",
     "reset-css": "^2.2.1",
